@@ -1,6 +1,8 @@
 ## A small app to familiarize with the `HTTP` protocol.
 
-Apart `HTTP` protocol, I leave a small note regarding two more protocols which HTTP is kind of based on:
+Just copied code presented [in the video](https://www.youtube.com/watch?v=4haMUvUxUJI) to check how it works (it works good).
+
+Also, a small note about `TCP/IP`.
 * `IP` protocol (*network* layer = layer 3 in the OSI model): 
 is used to send / receive *packets*. The *IP address* is the abstraction of this level.
 * `TCP` protocol (*transport* layer = layer 4 in the OSI model): 
